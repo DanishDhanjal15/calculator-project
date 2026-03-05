@@ -1,7 +1,7 @@
 # calculator-project
 
 
-A sleek, modern calculator built with vanilla HTML, CSS, and JavaScript. Features a clean interface with smooth animations and responsive design.
+A sleek, modern calculator built with vanilla HTML, CSS, and JavaScript. Features a clean interface with smooth animations and responsive design. 
 
 ## Features
 
